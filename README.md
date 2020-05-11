@@ -33,3 +33,4 @@ See the example, with all functionality [mailsend.prg](./samples/mailsend.prg)
 
 You will get a result like this:
 
+![https://raw.githubusercontent.com/FoxShell/vfpmailer/master/samples/result.jpg](https://raw.githubusercontent.com/FoxShell/vfpmailer/master/samples/result.jpg)
