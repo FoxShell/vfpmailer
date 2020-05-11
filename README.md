@@ -18,7 +18,7 @@ Make open source software is hard, and need many time. Please consider donate, y
 
 1. Install [@kawix/core](https://github.com/kodhework/kawix/blob/master/core/INSTALL.md)
 
-2. Install the Shide Lib. From cmd: 
+2. Install the vfpmailer Lib. From cmd: 
 
 ```bash
 kwcore gh+/foxshell/packages/vfpmailer/0.0.1.kwa
