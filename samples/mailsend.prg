@@ -7,7 +7,7 @@ LOCAL req, response , ImageFile, axios
 imageFile = GETENV("userprofile") + "\zorro.png"
 if(!FILE(m.imageFile))
 
-    * a fox picture 
+    * use vfp.axios for download a fox picture 
     axios = _screen.nodeinterop.loadLibrary("axios")
     req = axios.create()
     req.params.responsetype = 'arraybuffer'
@@ -23,7 +23,7 @@ endif
 
 LOCAL mailer,transporter, data
 
-mailer = _screen.nodeinterop.loadLibrary("vfpmailer/main")
+mailer = _screen.nodeinterop.loadLibrary("gh+/FoxShell/vfpmailer/src/VFP/main.prg|vfpmailer-0.0.1")
 transporter=mailer.createTransport()
 
 data= mailer.mailData()
