@@ -15,7 +15,7 @@ Make open source software is hard, and need many time. Please consider donate, y
 
 # Import to your project 
 
-Import FoxShell/Shide: [https://github.com/FoxShell/shide#import-shide-in-your-project](https://github.com/FoxShell/shide#import-shide-in-your-project)
+Import FoxShell/Shide: [https://github.com/FoxShell/shide](https://github.com/FoxShell/shide#import-shide-in-your-project)
 
 That's all, you are ready to use. See the examples
 
