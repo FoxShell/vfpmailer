@@ -54,3 +54,4 @@ transporter.auth.user = "yourusername@gmail.com"
 transporter.auth.pass = "yourpassword"
 
 transporter.sendMail(m.data)
+messagebox('OK ENVIADO', 64,'')
