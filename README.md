@@ -13,16 +13,9 @@ Make open source software is hard, and need many time. Please consider donate, y
 * Donate to paypal [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XTUTKMVWCVQCJ&source=url)
 
 
+# Import to your project 
 
-# Installation 
-
-1. Install [@kawix/core](https://github.com/kodhework/kawix/blob/master/core/INSTALL.md)
-
-2. Install the vfpmailer Lib. From cmd: 
-
-```bash
-kwcore gh+/foxshell/packages/vfpmailer/0.0.1.kwa
-```
+Import FoxShell/Shide: [https://github.com/FoxShell/shide#import-shide-in-your-project](https://github.com/FoxShell/shide#import-shide-in-your-project)
 
 That's all, you are ready to use. See the examples
 
