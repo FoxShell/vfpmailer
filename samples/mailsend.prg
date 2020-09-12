@@ -23,7 +23,7 @@ endif
 
 LOCAL mailer,transporter, data
 
-mailer = _screen.nodeinterop.loadLibrary("gh+/FoxShell/vfpmailer/src/VFP/main.prg|vfpmailer-0.0.1")
+mailer = _screen.nodeinterop.loadRemoteLibrary("gh+/FoxShell/vfpmailer/src/VFP/main.prg|vfpmailer-0.0.1")
 transporter=mailer.createTransport()
 
 data= mailer.mailData()
